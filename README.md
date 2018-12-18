@@ -113,6 +113,8 @@ Class | Method | HTTP request | Description
  - [UploadedFileInfo](docs/UploadedFileInfo.md)
  - [User](docs/User.md)
 
+<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="300">
+
 <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">
 ## Documentation For Authorization
 
